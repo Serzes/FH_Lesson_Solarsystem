@@ -8,4 +8,5 @@ Mars
 - Deimos
 Jupiter
 Saturn
+- Europa
 Uranus
